@@ -1,10 +1,15 @@
 {
-    "first_param": "65723",
-    "last_param": "6ab67a2b",
-    "static_param": "iphjO84PUcslsjMXYvqODp7nac606k0b",
-    "checksum_indexes": [22,9,1,26,39,14,26,14,39,39,34,15,13,7,32,21,24,24,26,30,13,6,33,38,19,2,31,23,17,33,0,38],
-    "checksum_constants": [104,-98,89,-61,125,55,94,127,-112,134,-87,70,83,134,-98,-91,-125,77,135,-108,-88,-129,58,-139,129,86,98,-92,131,-99,130,-126],
-    "checksum_constant": 406,
     "x-of-rev": "202609251341-9985c38bbd",
     "telegram-channel": "@xD_configs"
+}
+{
+    "static_param": "tvVWD9potV3lkLlphMw0SY9JbNFfgZnt",
+    "format": "36967:{}:{:x}:67ab18ae",
+    "checksum_indexes": [5,26,37,33,24,29,3,8,24,28,25,1,16,38,36,17,25,4,12,5,14,30,20,27,28,34,8,1,33,29,17,3],
+    "checksum_constants": [118,116,-111,-66,101,124,92,53,82,113,121,-147,124,121,104,108,-139,-54,130,-113,-91,-104,90,-86,111,119,-87,129,-62,143,77,93],
+    "checksum_constant": 1209,
+    "app_token": "33d57ade8c02dbc5a333db99ff9ae26a",
+    "remove_headers": ["user-id"],
+    "error_code": 0,
+    "message": ""
 }
